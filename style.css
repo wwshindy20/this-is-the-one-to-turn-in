@@ -1,0 +1,62 @@
+body{Background-color: grey}
+
+div {display:block;
+border:3px solid white;
+}
+
+div {padding: 20px, 1000px, 20px, 10px;}
+
+img{Float:center;}
+
+.header
+{background-color: #F1F1F1;
+ text-align: center;
+ padding: 20px;}
+
+.topnav {overflow: hidden;
+background-color:#333;}
+
+.topnav a { float:left;
+display: block;
+color: #F2F2F2;
+text-align:center;
+padding:14px 16px;
+text-decoration: none;}
+
+.topnav a:hover { background-color: white;
+color: black; }
+
+.column {
+float:left;
+width:32%;}
+
+
+
+.footer {
+		background-color: black
+		position: absolute; 
+		text-align: center;
+		color: white;
+		bottom: 0;
+		width: 100%;
+}
+
+
+.columnside {
+width:23%;
+    float:left;
+}
+
+
+.colummiddle {
+width:52%;
+    float:left;
+}
+
+
+.columnsidee {
+width:23.5%;
+    float:left;
+}
+
+
